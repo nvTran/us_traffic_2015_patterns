@@ -1,5 +1,8 @@
 # Data analytics project to visualize patterns and model US traffic 2015 data
-This is my personal attempt for OCBC Hack-it Challenge (Data & AI path)
+- For easy viewing, you can take a look at the exported HTML file
+- When viewing the original Notebook, some images might not be loaded, you need to click on File -> Trust Notebook.
+
+
 
 ## Python packages used
 - pandas
